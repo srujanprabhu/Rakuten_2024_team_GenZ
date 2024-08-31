@@ -1,0 +1,6 @@
+langchain_core
+datetime
+email
+ssl
+smtplib
+pywhatkit
